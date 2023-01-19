@@ -1,7 +1,7 @@
 # Mern Stack Todo App
 
 ```
-Todo Add and Delete process
+you make todo add and Delete process
 ```
 
 ## Tecnology
